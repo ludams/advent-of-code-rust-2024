@@ -29,5 +29,6 @@ tinyjson = "2.5.1"
 
 # Solution dependencies
 regex = "1.11.1"
+gcd = "2.3.0"
 
 # Solution dependencies
